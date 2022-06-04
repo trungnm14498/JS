@@ -60,3 +60,12 @@
 
 // console.log(result); // Expected: "Elephant"
 // console.log(animals); // Expected: ['Monkey', 'Tiger', 'Elephant']
+
+// var mang1 = ['123', 213, 'Trung', true];
+
+
+// var getRandomItem = function(array) {
+//     return array[Math.floor(Math.random() * array.length)]
+// }
+// console.log(mang1[(Math.floor(Math.random() * mang1.length))])
+
