@@ -18,9 +18,10 @@
 - trả về phần tử đầu tiên thỏa mãn điều kiện return. Nếu không có thì trả về *undefined*.
 
 5. filter()
-- giống find() nhưng trả về tất cả các phần tử thỏa mãn điều kiện return.
+- giống find() nhưng trả về tất cả các phần tử thỏa mãn điều kiện return.  
 
-6. map() ***Quan trọng***
+***Quan trọng***
+6. map() 
 - muốn thay đổi phần tử của một array
 - ví dụ cụ thể trong file main.js
 
