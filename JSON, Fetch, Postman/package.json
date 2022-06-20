@@ -1,0 +1,15 @@
+{
+  "name": "jsf8",
+  "version": "1.0.0",
+  "description": "1. Là một định dạng dữ liệu (chuỗi)\r 2. JSON: JavaScript Object Notation\r 3. Có thể sử dụng JSON để biểu diễn các loại dữ liệu: Number, String, Boolean, Null, Array, Object và ngược lại (Stringify <-> Parse)\r 4. JSON.parse(`var`);\r 5. Sử dụng dấu ngoặc kép để lưu string trong đó",
+  "main": "main.js",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
